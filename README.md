@@ -9,4 +9,3 @@ After applying this methodologies, we first collect the data for SPACEX first st
 
 I will go through the whole cycle of data science starting from (1) data collection methodology: describe how data sets were collected; (2)data wrangling: describe how data were processed;(3)Perform exploratory data analysis (EDA) using visualization and (my)SQL; (4) perform interactive visual analytics using Folium and Plotly Dash; (5) perform predictive analysis using classification models: how to build, tune, evaluate classification models.
 
-
